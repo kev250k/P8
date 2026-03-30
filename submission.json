@@ -1,0 +1,6 @@
+{
+"prompt": "A surreal yet physically plausible scene illustrating Simpson's Paradox. Scene: Two separate groups of people are climbing upward on two visible paths, each group clearly moving uphill and progressing. However, when viewed from a higher perspective, both paths are actually part of a larger slope that descends downward overall, making the entire crowd move downward despite local upward movement. The environment should subtly reveal this contradiction through perspective and terrain, not through labels. No text, no numbers, no diagrams. Style: cinematic, realistic, slightly surreal, strong depth and perspective, natural lighting. Composition: layered perspective showing both local upward motion and global downward structure simultaneously. Avoid charts, avoid symbols, avoid literal representations.",
+"model": "DALL·E 3",
+"paradox": "Simpson's Paradox",
+"visual_logic": "Two groups move upward locally, but the larger terrain reveals a global downward trend, showing contradictory local and global patterns."
+}
